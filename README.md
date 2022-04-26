@@ -21,7 +21,8 @@ Android Studio w/ Java
 
 ### 2.webView 연결
 
-#### 1) activity_main.xml 파일에 webView 컴포넌트 추가
+#### 1) activity_main.xml 파일에 webView 컴포넌트 추가<img width="1440" alt="스크린샷 2022-04-26 오후 5 12 54" src="https://user-images.githubusercontent.com/49167217/165254798-ec462612-be06-4732-94f2-fadb0bcb8930.png">
+
 
 #### 2) MainActivity.java 에 컴포넌트 연결
 ```java
